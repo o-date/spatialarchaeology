@@ -13,3 +13,4 @@ Cython
 pygeoprocessing
 rasterio
 scikit-image
+opencv-python
