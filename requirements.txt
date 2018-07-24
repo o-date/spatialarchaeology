@@ -4,3 +4,4 @@ fiona
 geopandas
 bokeh
 matplotlib
+descartes
