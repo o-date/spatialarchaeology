@@ -6,3 +6,5 @@ bokeh
 matplotlib
 descartes
 rtree
+pysal
+seaborn
