@@ -12,3 +12,4 @@ sklearn
 Cython
 pygeoprocessing
 rasterio
+scikit-image
