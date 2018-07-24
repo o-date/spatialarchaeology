@@ -9,3 +9,6 @@ rtree
 pysal
 seaborn
 sklearn
+Cython
+pygeoprocessing
+rasterio
