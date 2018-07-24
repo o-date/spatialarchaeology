@@ -8,7 +8,13 @@ Here's how to get started:
  * Access the notebooks for different lessons in the binder
  * Click 'launch binder' (go make a cup of tea and wait while the environment builds) and then click the notebook for your lesson to get started. 
 
+opitz
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ropitz/spatialarchaeology/master)
+
+graham
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shawngraham/spatialarchaeology/master)
 
 # Archaeology of Scotland Modules
 *  'linlithgow_spatial.ipynb' explores burial data and is intended for Archaeology of Scotland
