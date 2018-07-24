@@ -8,3 +8,4 @@ descartes
 rtree
 pysal
 seaborn
+sklearn
