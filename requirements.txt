@@ -5,3 +5,4 @@ geopandas
 bokeh
 matplotlib
 descartes
+rtree
