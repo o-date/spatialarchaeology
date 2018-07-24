@@ -17,6 +17,5 @@ jinja2
 folium
 seaborn
 scikit-learn
-gdal
 rasterio
 opencv
