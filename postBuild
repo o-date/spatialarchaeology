@@ -1,4 +1,5 @@
 conda install rtree
 conda install gdal
 conda install opencv
+conda install -c anaconda cython
 pip install --upgrade setup tools
