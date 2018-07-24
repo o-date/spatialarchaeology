@@ -1,1 +1,2 @@
 conda install rtree
+conda install gdal
