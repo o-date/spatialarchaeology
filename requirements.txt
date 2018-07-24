@@ -3,3 +3,4 @@ requests
 fiona
 geopandas
 bokeh
+matplotlib
