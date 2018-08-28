@@ -1,6 +1,8 @@
 # ODATE Users:
 
-These notebooks are courtesy [Dr. Rachel Opitz, of the University of Glasgow](https://www.gla.ac.uk/schools/humanities/staff/rachelopitz/) who is Lecturer in Spatial Archaeology. There are two binders below which can be launched; consider launching Dr. Opitz's as she updates the work for her own teaching, or use the ODATE version that is updated only periodically.
+archived odate version: [![DOI](https://zenodo.org/badge/142212106.svg)](https://zenodo.org/badge/latestdoi/142212106)
+
+These notebooks are courtesy [Dr. Rachel Opitz, of the University of Glasgow](https://www.gla.ac.uk/schools/humanities/staff/rachelopitz/) who is Lecturer in Spatial Archaeology. There are two binders below which can be launched; consider launching Dr. Opitz Binder as she updates the work for her own teaching. Alternatively, use the ODATE version that is updated only periodically.
 
 ---
 
